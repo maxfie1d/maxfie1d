@@ -6,7 +6,7 @@
 
 - :office: &nbsp;I'm currently working at **IGNIS LTD.**
 - :computer: Android Enginner
-- [Qiita](https://qiita.com/maxfie1d)
+- [Qiita](https://qiita.com/maxfie1d) [Twitter](https://twitter.com/maxfie1d)
 
 
 <!--
