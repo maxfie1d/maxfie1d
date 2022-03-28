@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=maxfie1d&show_icons=true&count_private=true&include_all_commits=true" alt="macropower" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **IGNIS LTD.**
+- :office: &nbsp;I'm currently working at **with**
 - :computer: Android Enginner
 - [Qiita](https://qiita.com/maxfie1d) [Twitter](https://twitter.com/maxfie1d)
 
