@@ -5,7 +5,9 @@
 </a>
 
 - :computer: Android Enginner
-- [Qiita](https://qiita.com/maxfie1d) [Twitter](https://twitter.com/maxfie1d)
+- [X](https://x.com/maxfie1d)
+- [Qiita](https://qiita.com/maxfie1d)
+- [Zenn](https://zenn.dev/maxfie1d)
 
 
 <!--
